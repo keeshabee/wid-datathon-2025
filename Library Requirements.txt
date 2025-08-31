@@ -1,0 +1,8 @@
+Library Requirements
+
+pandas
+numpy
+plotly
+skyfield
+requests
+openpyxl

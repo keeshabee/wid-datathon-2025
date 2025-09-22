@@ -1,11 +1,11 @@
 # Space Situational Awareness - WiD Datathon 2025
 
 ## Team Members
-- KB
-- IW
-- IA
-- LC
-- DH
+- Keisha Bolaji
+- Izabella Wyne
+- Ianne Anthony Coleman
+- Linda Choong
+- Deborah Hemingway
   
 
 ## Project Overview
